@@ -1,0 +1,20 @@
+.profile-section{
+    background-color: rgb(245, 245, 255);
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 1px 1px 10px -7px rgb(71, 71, 71);
+
+}
+
+.pro-pic{
+
+}
+
+.pro-pic img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow:  1px 1px 10px -4px rgb(143, 140, 140);
+
+}
